@@ -1,5 +1,13 @@
-<h1 align="center">¡Hola! 👋 Soy Benjamín Navarro</h1>
-<h3 align="center">Estudiante de Ingeniería Civil en Computación en la Universidad de Talca</h3>
+<h1 align="center">¡Hola! Soy Benjamín Navarro</h1>
+<h3 align="center">Estudiante de Ingeniería Civil en Computación</h3>
+
+---
+
+### 🎓 Educación
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Universidad_de_Talca-0033A0?style=for-the-badge" alt="Universidad de Talca">
+</p>
 
 ---
 
@@ -16,6 +24,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox">
 </p>
 
 ---
