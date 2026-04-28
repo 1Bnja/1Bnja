@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Benjamín Navarro</h1>
+<h1 align="center">¡Hola! Soy Benjamín Canales</h1>
 <h3 align="center">Estudiante de Ingeniería Civil en Computación</h3>
 
 ---
