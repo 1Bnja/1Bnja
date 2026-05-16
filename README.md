@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Benjamín 👋</h1>
+<h1 align="center">Hi, I'm Benjamín</h1>
 <p align="center">Civil Computing Engineering · UTalca · Chile</p>
 
 ---
