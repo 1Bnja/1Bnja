@@ -4,5 +4,5 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,c,java,react,nextjs,tailwind,nodejs,supabase,postgres,docker,linux,proxmox,git" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,c,java,react,nextjs,tailwind,nodejs,supabase,postgres,docker,linux,git" />
 </p>
