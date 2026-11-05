@@ -18,34 +18,9 @@
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/><br>Python</td>
-      <td align="center" width="96"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/><br>Java</td>
-      <td align="center" width="96"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/><br>JavaScript</td>
-      <td align="center" width="96"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"/><br>TypeScript</td>
-      <td align="center" width="96"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C"/><br>C</td>
-      <td align="center" width="96"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/><br>React</td>
-    </tr>
-    <tr>
-      <td align="center" width="96"><img height="48" src="https://cdn.simpleicons.org/nextdotjs/black#gh-light-mode-only" alt="Next.js"/><img height="48" src="https://cdn.simpleicons.org/nextdotjs/white#gh-dark-mode-only" alt="Next.js"/><br>Next.js</td>
-      <td align="center" width="96"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js"/><br>Node.js</td>
-      <td align="center" width="96"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/><br>PostgreSQL</td>
-      <td align="center" width="96"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase"/><br>Supabase</td>
-      <td align="center" width="96"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"/><br>MongoDB</td>
-      <td align="center" width="96"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" alt="Vitest"/><br>Vitest</td>
-    </tr>
-    <tr>
-      <td align="center" width="96"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/><br>Git</td>
-      <td align="center" width="96"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions"/><br>GitHub Actions</td>
-      <td align="center" width="96"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"/><br>Docker</td>
-      <td align="center" width="96"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"/><br>Linux</td>
-      <td align="center" width="96"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas"/><br>pandas</td>
-      <td align="center" width="96"><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter"/><br>Jupyter</td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="./assets/tech-stack.svg" alt="Tech stack" width="624" />
+</p>
 
 <h2 align="center">🚀 Projects</h2>
 
