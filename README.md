@@ -47,5 +47,5 @@ My background covers software development, algorithms, databases, concurrent and
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=1Bnja&theme=tokyonight&hide_border=true)
 
-![Followers](https://img.shields.io/github/followers/1Bnja?label=Followers&style=for-the-badge&color=3178C6)
+![Followers](https://img.shields.io/github/followers/1Bnja?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=3178C6)
 ![Profile views](https://komarev.com/ghpvc/?username=1Bnja&style=for-the-badge&color=3178C6)
