@@ -19,7 +19,7 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="./assets/tech-stack.svg" alt="Tech stack" width="624" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,js,ts,c,react,nextjs,nodejs,postgresql,supabase,mongodb,vitest,git,githubactions,docker,linux,pandas,jupyter&perline=9" alt="Tech stack" />
 </p>
 
 <h2 align="center">🚀 Projects</h2>
