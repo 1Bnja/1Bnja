@@ -42,8 +42,3 @@ My background covers software development, algorithms, databases, concurrent and
 **RegistroAsistencia** — Attendance system with facial recognition, built on a microservices architecture: React frontend, Node.js backend, a Python deep learning service and MongoDB, orchestrated with Docker Compose.
 
 **MakerBox** — Management system for a digital fabrication space (3D printing, courses, inventory and bookings). Built by a team of 3 with Next.js, TypeScript and Supabase, with Vitest tests and CI on GitHub Actions.
-
-## GitHub Stats
-
-![Benjamín's GitHub stats](https://github-readme-stats.vercel.app/api?username=1Bnja&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1Bnja&layout=compact&hide_border=true)
