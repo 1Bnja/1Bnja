@@ -1,8 +1,49 @@
-<h1 align="center">Hi, I'm Benjamín</h1>
-<p align="center">Civil Computing Engineering · UTalca · Chile</p>
+# Hi, I'm Benjamín Canales Navarro 👋
 
+5th-year student of **Ingeniería Civil en Computación** (Computer Science & Engineering) at **Universidad de Talca**, based in Curicó, Chile.
+Teaching assistant for Software Design and Computer Network Administration. Currently looking for a **software development internship**.
 
+My background covers software development, algorithms, databases, concurrent and distributed systems, networks, data analysis and AI.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,c,java,react,nextjs,tailwind,nodejs,supabase,postgres,docker,linux,git" />
-</p>
+- 🔭 Looking for a software developer internship
+- 🌱 Currently studying Exploratory Data Analysis
+- 🗣️ Spanish (native) · English (B2)
+- 📫 benjamin.anc6@gmail.com
+
+## Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**Frameworks & Databases**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
+
+**Tools & Data**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+## Projects
+
+**RegistroAsistencia** — Attendance system with facial recognition, built on a microservices architecture: React frontend, Node.js backend, a Python deep learning service and MongoDB, orchestrated with Docker Compose.
+
+**MakerBox** — Management system for a digital fabrication space (3D printing, courses, inventory and bookings). Built by a team of 3 with Next.js, TypeScript and Supabase, with Vitest tests and CI on GitHub Actions.
+
+## GitHub Stats
+
+![Benjamín's GitHub stats](https://github-readme-stats.vercel.app/api?username=1Bnja&show_icons=true&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1Bnja&layout=compact&hide_border=true)
