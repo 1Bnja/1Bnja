@@ -1,4 +1,10 @@
-# Hi, I'm Benjamín Canales Navarro 👋
+<h1 align="center">Hi, I'm Benjamín Canales Navarro 👋</h1>
+
+<p align="center">
+  <a href="https://github.com/1Bnja">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=3178C6&center=true&vCenter=true&width=600&lines=Ingenier%C3%ADa+Civil+en+Computaci%C3%B3n;Software+Developer;Looking+for+a+software+internship" alt="Typing SVG" />
+  </a>
+</p>
 
 5th-year student of **Ingeniería Civil en Computación** (Computer Science & Engineering) at **Universidad de Talca**, based in Curicó, Chile.
 Teaching assistant for Software Design and Computer Network Administration. Currently looking for a **software development internship**.
@@ -47,4 +53,5 @@ My background covers software development, algorithms, databases, concurrent and
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=1Bnja&theme=tokyonight&hide_border=true)
 
-
+![Followers](https://img.shields.io/github/followers/1Bnja?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=3178C6)
+![Profile views](https://komarev.com/ghpvc/?username=1Bnja&style=for-the-badge&color=3178C6)
