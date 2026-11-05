@@ -6,52 +6,41 @@
   </a>
 </p>
 
-5th-year student of **Ingeniería Civil en Computación** (Computer Science & Engineering) at **Universidad de Talca**, based in Curicó, Chile.
-Teaching assistant for Software Design and Computer Network Administration. Currently looking for a **software development internship**.
+<p align="center">
+  5th-year student of <b>Ingeniería Civil en Computación</b> (Computer Science &amp; Engineering) at <b>Universidad de Talca</b>, based in Curicó, Chile.<br>
+  Teaching assistant for Software Design and Computer Network Administration. Currently looking for a <b>software development internship</b>.
+</p>
 
-My background covers software development, algorithms, databases, concurrent and distributed systems, networks, data analysis and AI.
+<p align="center">
+  🔭 Looking for a software developer internship &nbsp;·&nbsp; 🌱 Studying Exploratory Data Analysis<br>
+  🗣️ Spanish (native) · English (B2) &nbsp;·&nbsp; 📫 benjamin.anc6@gmail.com
+</p>
 
-- 🔭 Looking for a software developer internship
-- 🌱 Currently studying Exploratory Data Analysis
-- 🗣️ Spanish (native) · English (B2)
-- 📫 benjamin.anc6@gmail.com
+<h2 align="center">🛠️ Tech Stack</h2>
 
-## Tech Stack
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,js,ts,c,react,nextjs,nodejs,postgresql,supabase,mongodb,vitest,git,githubactions,docker,linux,pandas,jupyter&perline=9" alt="Tech stack" />
+</p>
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+<h2 align="center">🚀 Projects</h2>
 
-**Frameworks & Databases**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
+<p align="center">
+  <b>RegistroAsistencia</b> — Attendance system with facial recognition on a microservices architecture:<br>
+  React frontend, Node.js backend, a Python deep learning service and MongoDB, orchestrated with Docker Compose.
+</p>
 
-**Tools & Data**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+<p align="center">
+  <b>MakerBox</b> — Management system for a digital fabrication space (3D printing, courses, inventory and bookings).<br>
+  Built by a team of 3 with Next.js, TypeScript and Supabase, with Vitest tests and CI on GitHub Actions.
+</p>
 
-## Projects
+<h2 align="center">📊 GitHub Stats</h2>
 
-**RegistroAsistencia** — Attendance system with facial recognition, built on a microservices architecture: React frontend, Node.js backend, a Python deep learning service and MongoDB, orchestrated with Docker Compose.
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=1Bnja&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-**MakerBox** — Management system for a digital fabrication space (3D printing, courses, inventory and bookings). Built by a team of 3 with Next.js, TypeScript and Supabase, with Vitest tests and CI on GitHub Actions.
-
-## GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=1Bnja&theme=tokyonight&hide_border=true)
-
-![Followers](https://img.shields.io/github/followers/1Bnja?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=3178C6)
-![Profile views](https://komarev.com/ghpvc/?username=1Bnja&style=for-the-badge&color=3178C6)
+<p align="center">
+  <img src="https://img.shields.io/github/followers/1Bnja?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=3178C6" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=1Bnja&style=for-the-badge&color=3178C6" alt="Profile views" />
+</p>
